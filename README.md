@@ -22,3 +22,5 @@ Steps to build a model:
 8.This joblib model can be used for predicting the price based on input features
 
 Results of various models are included in a text file.
+
+Next Step: Create a web application using Django framework that used the above model in backend. This application takes features as input and give the user predicted price 
